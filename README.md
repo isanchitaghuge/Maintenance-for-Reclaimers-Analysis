@@ -4,4 +4,4 @@
 
 Idle capacity = (Actual Tonnage - Nominal Capacity) in here for the analysis purpose.
 
-## Find out which of the 5 machines have exceeded the idle capacity and create a report for the executive stakeholders with your recommendations.
+## Report with the recommendations, suggesting which machines require the maintenance that has exceeded 10% of the idle capacity using tableau.
